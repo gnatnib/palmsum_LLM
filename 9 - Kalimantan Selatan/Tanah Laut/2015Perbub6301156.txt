@@ -1,0 +1,26 @@
+Saya sedang menyusun skripsi.  
+Dataset asli saya **berbentuk PDF** (dokumen resmi).  
+Saya telah mengonversi PDF tersebut ke **teks menggunakan PaddleOCR**, namun hasil OCR **mengandung kesalahan pembacaan karakter**.
+
+**Tugas Anda:**
+- Memperbaiki **hanya kesalahan OCR** pada teks hasil OCR.
+- Menyamakan teks OCR **persis** dengan isi dokumen PDF aslinya.
+
+**Aturan wajib (tidak boleh dilanggar):**
+1. **DILARANG menambah, menghapus, atau memparafrasekan konten.**
+2. **DILARANG mengubah struktur kalimat, tanda baca, atau kapitalisasi jika tidak salah.**
+3. **Perbaikan hanya boleh dilakukan jika jelas merupakan kesalahan OCR**, contoh:
+   - Karakter salah (l ↔ 1, O ↔ 0, rn ↔ m)
+   - Huruf terpotong atau menyatu
+   - Spasi salah akibat OCR
+4. **Jika sebuah bagian sudah benar, biarkan 100% identik.**
+5. Output **harus berupa teks final saja**, tanpa penjelasan, komentar, atau penanda perubahan.
+
+**Tujuan akhir:**
+Teks hasil output harus **identik secara karakter-per-karakter** dengan dokumen PDF asli.
+
+Saya akan mengirimkan:
+1. Teks hasil OCR  
+2. Potongan PDF (sebagai referensi kebenaran)
+
+Kerjakan secara **deterministik dan konservatif**. Jawab dalam markdown code agar langung bisa saya copy paste 
