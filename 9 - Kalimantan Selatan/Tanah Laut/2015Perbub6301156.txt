@@ -1,26 +1,123 @@
-Saya sedang menyusun skripsi.  
-Dataset asli saya **berbentuk PDF** (dokumen resmi).  
-Saya telah mengonversi PDF tersebut ke **teks menggunakan PaddleOCR**, namun hasil OCR **mengandung kesalahan pembacaan karakter**.
+SALINAN
+BUPATI TANAH LAUT
+PROVINSI KALIMANTAN SELATAN
 
-**Tugas Anda:**
-- Memperbaiki **hanya kesalahan OCR** pada teks hasil OCR.
-- Menyamakan teks OCR **persis** dengan isi dokumen PDF aslinya.
+PERATURAN BUPATI TANAH LAUT
+NOMOR 156 TAHUN 2015
 
-**Aturan wajib (tidak boleh dilanggar):**
-1. **DILARANG menambah, menghapus, atau memparafrasekan konten.**
-2. **DILARANG mengubah struktur kalimat, tanda baca, atau kapitalisasi jika tidak salah.**
-3. **Perbaikan hanya boleh dilakukan jika jelas merupakan kesalahan OCR**, contoh:
-   - Karakter salah (l ↔ 1, O ↔ 0, rn ↔ m)
-   - Huruf terpotong atau menyatu
-   - Spasi salah akibat OCR
-4. **Jika sebuah bagian sudah benar, biarkan 100% identik.**
-5. Output **harus berupa teks final saja**, tanpa penjelasan, komentar, atau penanda perubahan.
+TENTANG
 
-**Tujuan akhir:**
-Teks hasil output harus **identik secara karakter-per-karakter** dengan dokumen PDF asli.
+STANDAR OPERASIONAL PROSEDUR
+PEMBERIAN IZIN PENGKAJIAN PEMANFAATAN AIR LIMBAH DARI
+INDUSTRI MINYAK SAWIT PADA TANAH DI PERKEBUNAN KELAPA SAWIT
 
-Saya akan mengirimkan:
-1. Teks hasil OCR  
-2. Potongan PDF (sebagai referensi kebenaran)
+DENGAN RAHMAT TUHAN YANG MAHA ESA
 
-Kerjakan secara **deterministik dan konservatif**. Jawab dalam markdown code agar langung bisa saya copy paste 
+BUPATI TANAH LAUT,
+
+Menimbang : a. bahwa dalam rangka meningkatkan efisiensi dan efektivitas kinerja pelayanan pemberian izin pengkajian pemanfaatan air limbah dari industri minyak sawit pada tanah di perkebunan kelapa sawit., perlu menetapkan Standar Operasional Prosedur;
+             b. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Bupati Tanah Laut tentang Pemberian Izin Pengkajian Pemanfaatan Air Limbah Dari Industri Minyak Sawit Pada Tanah Di Perkebunan Kelapa Sawit;
+
+Mengingat : 1. Undang-Undang Nomor 8 Tahun 1965 tentang Pembentukan Daerah Tingkat II Tanah Laut, Daerah Tingkat II Tapin dan Daerah Tingkat II Tabalong (Lembaran Negara Republik Indonesia Tahun 1965 Nomor 51, Tambahan Lembaran Negara Republik Indonesia Nomor 2756) dengan mengubah Undang-Undang Nomor 27 Tahun 1959 (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 72, Tambahan Lembaran Negara Republik Indonesia Nomor 1820) tentang Penetapan Undang-Undang Darurat Nomor 3 Tahun 1953 tentang Pembentukan Daerah Tingkat II di Kalimantan (Lembaran Negara Republik Indonesia Tahun 1953 Nomor 9);
+             2. Undang-Undang Nomor 28 Tahun 1999 tentang Penyelenggaraan Negara yang Bersih dan Bebas dari Korupsi, Kolusi dan Nepotisme (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 75, Tambahan Lembaran Negara Republik Indonesia Nomor 3851);
+             3. Undang-Undang Nomor 33 Tahun 2004 tentang Perimbangan Keuangan Antara Pemerintah Pusat dan Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 126, Tambahan Lembaran Negara Republik Indonesia Nomor 4438);
+             4. Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 112, Tambahan Lembaran Negara Republik Indonesia Nomor 5038);
+             5. Undang-Undang Nomor 32 Tahun 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 140, Tambahan Lembaran Republik Indonesia Nomor 5059);
+             6. Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 5234);
+             7. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah diubah dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679);
+             8. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang Pembagian Urusan Pemerintahan Antara Pemerintah, Pemerintahan Daerah Provinsi dan Pemerintahan Daerah Kabupaten/Kota (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 4737);
+             9. Peraturan Pemerintah Nomor 79 Tahun 2005 tentang Pedoman Pembinaan dan Pengawasan Penyelenggaraan Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 140, Tambahan Lembaran Negara Republik Indonesia Nomor 4578);
+             10. Peraturan Pemerintah Nomor 27 Tahun 2012 tentang Izin Lingkungan (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 48 dan Tambahan Lembaran Negara Tahun 2012 Nomor 5285);
+             11. Peraturan Presiden Nomor 87 Tahun 2014 tentang Peraturan Pelaksana Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-Undangan (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 199);
+             12. Peraturan Menteri Negara Lingkungan Hidup Republik Indonesia Nomor 5 tahun 2012 tentang Jenis Rencana Usaha dan/atau Kegiatan yang Wajib Dilengkapi dengan Analisis Mengenai Dampak Lingkungan Hidup (Berita Negara Republik Indonesia Tahun 2013 Nomor 408);
+             13. Peraturan Menteri Dalam Negeri Nomor 13 Tahun 2006 tentang Pedoman Pengelolaan Keuangan Daerah sebagaimana diubah beberapa kali terakhir dengan Peraturan Menteri Dalam Negeri Nomor 21 Tahun 2011 tentang Perubahan Kedua atas Peraturan Menteri Dalam Negeri Nomor 13 Tahun 2006 tentang Pengelolaan Keuangan Daerah (Berita Negara Republik Indonesia Tahun 2011 Nomor 310);
+             14. Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 35 Tahun 2012 tentang Pedoman Penyusunan Standar Operasional Prosedur Administrasi Pemerintah;
+             15. Peraturan Menteri Negara Lingkungan Hidup Republik Indonesia Nomor 8 tahun 2013 tentang Tata Laksana Penilaian dan Pemeriksaan Dokumen Lingkungan Hidup serta Penerbitan Izin Lingkungan (Berita Negara Republik Indonesia Tahun 2013 Nomor 1256);
+             16. Peraturan Menteri Dalam Negeri Nomor 1 Tahun 2014 tentang Pembentukan Produk Hukum Daerah (Berita Negara Republik Indonesia Nomor 32);
+             17. Peraturan Daerah Kabupaten Tanah Laut Nomor 12 Tahun 2008 tentang Urusan Pemerintah yang menjadi kewenangan Pemerintah Daerah Kabupaten Tanah Laut (Lembaran Daerah Kabupaten Tanah Laut Tahun 2008 Nomor 12);
+             18. Peraturan Daerah Kabupaten Tanah Laut Nomor 13 Tahun 2008 tentang Organisasi Perangkat Daerah Kabupaten Tanah Laut (Lembaran Daerah Kabupaten Tanah Laut Tahun 2008 Nomor 13) sebagaimana telah diubah terakhir dengan Peraturan Daerah Kabupaten Tanah Laut Nomor 10 Tahun 2013 tentang Perubahan Atas Peraturan Daerah Kabupaten Tanah Laut Nomor 13 Tahun 2008 tentang Organisasi Perangkat Daerah Kabupaten Tanah Laut (Lembaran Daerah Kabupaten Tanah Laut Tahun 2013 Nomor 10 Tambahan Lembaran Daerah Nomor 6);
+             19. Peraturan Bupati Tanah Laut Nomor 16 Tahun 2011 tentang Jenis usaha dan/atau Kegiatan yang Wajib Dilengkapi dengan Dokumen Upaya Pengelolaan Lingkungan Hidup dan Upaya Pemantauan Lingkungan Hidup (UKL-UPL);
+             20. Peraturan Bupati Tanah Laut Nomor 46 Tahun 2011 tentang Pedoman Penyelenggaraan Pelayanan Publik Di Lingkungan Pemerintah Kabupaten Tanah Laut (Berita Daerah Kabupaten Tanah Laut Tahun 2011 Nomor 46);
+             21. Peraturan Bupati Tanah Laut Nomor 50 Tahun 2011 tentang Penyusunan Standar Operasional Prosedur (SOP) Penyelenggaraan Pemerintah di Lingkungan Pemerintah Kabupaten Tanah Laut (Berita Daerah Kabupaten Tanah Laut Tahun 2011 Nomor 50);
+
+MEMUTUSKAN:
+
+Menetapkan : PERATURAN BUPATI TENTANG STANDAR OPERASIONAL PROSEDUR PEMBERIAN IZIN PENGKAJIAN PEMANFAATAN AIR LIMBAH DARI INDUSTRI MINYAK SAWIT PADA TANAH DI PERKEBUNAN KELAPA SAWIT.
+
+BAB I
+KETENTUAN UMUM
+
+Pasal 1
+
+Dalam Peraturan Bupati ini yang dimaksud dengan :
+1. Daerah adalah Kabupaten Tanah Laut.
+2. Pemerintahan Daerah adalah penyelenggaraan urusan pemerintahan oleh pemerintah daerah dan dewan perwakilan rakyat daerah menurut asas otonomi dan tugas pembantuan dengan prinsip otonomi seluas-luasnya dalam sistem dan prinsip Negara Kesatuan Republik Indonesia sebagaimana dimaksud dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+3. Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara Pemerintahan Daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom.
+4. Bupati adalah Bupati Tanah Laut.
+5. Sekretaris Daerah adalah Sekretaris Daerah Kabupaten Tanah Laut.
+6. Badan Lingkungan Hidup adalah Badan Lingkungan Hidup Daerah Kabupaten Tanah Laut.
+7. Limbah bahan berbahaya dan beracun adalah sisa suatu usaha dan atau kegiatan yang mengandung bahan berbahaya dan beracun yang Karena sifat dan atau konsentrasinya dan atau jumlahnya, baik secara langsung maupun tidak langsung dapat mencemarkan dan atau merusak lingkungan hidup, dan atau membahayakan lingkungan hidup, kesehatan, kelansungan hidup manusia serta makhluk hidup lainnya.
+8. Pemanfataan air limbah industri minyak sawit adalah kegiatan mengalirkan air limbah pabrik kelapa sawit yang berasal dari kolam penanganan limbah ke parit-parit (rorak-rorak) yang ada di kebun kelapa sawit dengan dosis tertentu dan rotasi blok tertentu menurut hasil kajian pemanfaatn air limbah pabrik.
+9. Pemrakarsa adalah orang atau badan hukum yang bertanggung jawab atas suatu rencana usaha atau kegiatan yanag akan dilaksanakan.
+10. Land aplikasi adalah air limbah dari suatu usaha dan atau kegiatan tertentu yang dapat dimanfaatkan untuk mengairi areal pertanaman tertentu.
+11. Dokumen KA AMDAL adalah Dokumen kerangka acuan analisis dampak lingkungan hidup.
+12. Dokumen ANDAL adalah dokumen analisis dampak lingkungan hidup.
+13. Dokumen RKL-RPL adalah dokumen rencana pengelolaan lingkungan hidup dan rencana pemantauan lingkungan hidup.
+14. Komisi penilai AMDAL adalah Komisi penilai analisis mengenai dampak lingkungan hidup.
+15. Dokumen UKP UPL adalah dokumen upaya pengelolaan lingkungan hidup dan upaya pemantauan lingkungan hidup.
+16. Sertifikat hasil uji laboratorium lingkungan hidup dalah dokumen yang menyajikan hasil pengujian dan/atau laboratorium dan informasi lainnya yang berkaitan dengan pengujian.
+17. Analisa contoh adalah suatu usaha mengamati secara detail suatu contoh dengan cara menguraikan komponen-komponen pembentukannya atau penyusunannya untuk dikaji lebih lanjut.
+18. Standar operasional prosedur yang selanjutnya disebut SOP adalah serangkaian ketentuan tertulis yang dibakukan mengenai berbagai proses penyelenggaraan adminsitrasi pemerintahan.
+
+Pasal 2
+
+Maksud dan tujuan Peraturan Bupati ini ditetapkan adalah untuk mengatur Standar Operasional Prosedur pemberian izin pengkajian pemanfaatan air limbah dari industri minyak sawit pada tanah di perkebunan kelapa sawit.
+
+Pasal 3
+
+Format Standar Operasional Prosedur sebagaimana dimaksud pada Pasal 2 tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Bupati ini.
+
+BAB III
+TATA KERJA
+
+Pasal 4
+
+1. Setiap Pejabat dan pelaksana standar opersional prosedur, wajib menguasai, memahami dan melaksanakan sistem dan ketentuan yang berlaku.
+2. Setiap Pejabat yang terlibat didalam pelaksanaan Standar operasional prosedur, wajib membangun komitmen tinggi untuk mendukung pelaksanaannya.
+3. Setiap pejabat yang terlibat didalam pelaksanaan standar operasional prosedur, wajib mengembangkan koordinasi dan kerjasama maksimal dalam upaya meningkatkan efisiensi dan efektivitas pelayanan publik.
+4. Setiap pejabat yang terlibat didalam pelaksanaan standar operasional prosedur wajib memperhatikan ketentuan perundang-undangan yang berlaku dalam pelaksanaan tugas.
+
+BAB IV
+KETENTUAN PENUTUP
+
+Pasal 5
+
+Peraturan Bupati ini mulai berlaku pada tanggal diundangkan.
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Bupati ini dengan penempatannya dalam Berita Daerah Kabupaten Tanah Laut.
+
+Ditetapkan di Pelaihari
+pada tanggal 29 Desember 2015
+BUPATI TANAH LAUT,
+
+Cap ttd
+
+H. BAMBANG ALAMSYAH
+
+Diundangkan di Pelaihari
+pada tanggal 29 Desember 2015
+SEKRETARIS DAERAH
+KABUPATEN TANAH LAUT,
+
+Cap ttd
+
+H. ABDULLAH
+
+SALINAN SESUAI DENGAN ASLINYA
+KEPALA BAGIAN HUKUM
+SEKRETARIAT DAERAH
+
+ALFIRIAL, SH, MH
+NIP. 19750203 199903 2 008
+
+BERITA DAERAH KABUPATEN TANAH LAUT TAHUN 2015 NOMOR 563

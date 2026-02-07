@@ -185,7 +185,7 @@ b. Melakukan pembayaran atas pelaksanaan anggaran.
 BAB III
 INDIKATOR KEBERHASILAN STANDAR PELAYANAN MINIMUM
 BADAN PENGELOLA DANA PERKEBUNAN KELAPA SAWIT
-
+[tabel_awal]
 No. | Jenis Layanan | Kegiatan/Proses | Indikator Kinerja | Maksimum Waktu Penyelesaian | Keterangan
 --- | --- | --- | --- | --- | ---
 **PENGELOLAAN DANA**
@@ -313,7 +313,7 @@ No. | Jenis Layanan | Kegiatan/Proses | Indikator Kinerja | Maksimum Waktu Penye
 9. | Publikasi Pengelolaan Dana Perkebunan Kelapa Sawit | 1. Mempublikasikan target dan realisasi penerimaan dana pungutan dalam situs resmi BPDPKS | Dipublikasikannya target dan realisasi penerimaan dana pungutan dalam situs resmi BPDPKS | 10 hari kerja | Triwulanan
 | | | 2. Mempublikasikan target dan realisasi penyaluran dana pungutan dalam situs resmi BPDPKS yang dirinci dalam penyaluran Pengembangan SDM, Penelitian dan Pengembangan, Promosi Kelapa Sawit dan Turunannya, Peremajaan Perkebunan, Sarana dan Prasarana Perkebunan, dan Pembiayaan Biodiesel | Dipublikasikannya target dan realisasi penyaluran dana pungutan dalam situs resmi BPDPKS | 10 hari kerja | Triwulanan
 | | | **Jumlah Waktu Maksimum Layanan** | **20 hari kerja** |
-
+[tabel_akhir]
 BAB IV
 SUMBER DAYA
 

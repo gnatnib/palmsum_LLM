@@ -62,7 +62,9 @@ RUMUS HARGA PEMBELIAN TBS
 Pasal 5
 (1) Harga pembelian TBS oleh Perusahaan didasarkan pada rumus harga pembelian TBS.
 (2) Rumus harga pembelian TBS sebagaimana dimaksud pada ayat (1) ditetapkan sebagai berikut :
+[rumus_awal]
 H TBS = K { Hms x Rms + His x Ris }
+[rumus_akhir]
 dengan pengertian:
 H TBS : Harga TBS yang diterima oleh pekebun di tingkat pabrik, dinyatakan dalam Rp/Kg;
 K : Indeks proporsi yang menunjukan bagian yang diterima oleh pekebun, dinyatakan dalam persentase (%);

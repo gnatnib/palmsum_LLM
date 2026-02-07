@@ -213,11 +213,13 @@ Selanjutnya, tahapan yang harus dilakukan dalam Peremajaan kelapa sawit dengan s
 6. Pancang Titik Tanam
    a. Pola penanaman menggunakan pola segitiga sama sisi dengan jarak antar tanaman tergantung pada kondisi lahan, bahan tanaman dan iklim.
    b. Populasi tanaman pada berbagai jarak tanam:
+      [tabel_awal]
       Jarak antar pohon (m)   Jarak antar barisan (m)   Populasi (pohon)
       9,00                    7,80                      143
       9,30                    8,05                      133
       9,40                    8,14                      130
       9,50                    8,22                      128
+      [tabel_akhir]
    c. Pada areal berbukit dan berkontur, jarak antara kontur merupakan proyeksi jarak antar barisan, sedangkan pada areal berbukit tanpa kontur arah barisan tanaman adalah sama dengan areal rata/datar dengan jarak antar tanaman menggunakan jarak proyeksi.
 
 7. Membangun dan Menanam Tanaman Penutup Tanah

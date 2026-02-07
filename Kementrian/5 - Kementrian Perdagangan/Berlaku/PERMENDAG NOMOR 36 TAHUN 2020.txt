@@ -330,11 +330,11 @@ KOP SURAT PERUSAHAAN
 LAPORAN PENYALURAN MINYAKITA
 (NAMA PERUSAHAAN)
 Periode Tahun ...
-
+[tabel_awal]
 No. | Produksi | Penyaluran | Stok | Keterangan
 --- | --- | --- | --- | ---
 1. | ... ton | ... ton | ... ton |
-
+[tabel_akhir]
 (tempat), (tanggal)
 (nama dan tanda tangan
 penanggung jawab perusahaan)

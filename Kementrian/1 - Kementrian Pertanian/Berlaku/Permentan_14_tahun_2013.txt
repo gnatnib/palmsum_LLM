@@ -9,15 +9,15 @@ DENGAN RAHMAT TUHAN YANG MAHA ESA
 MENTERI PERTANIAN,
 
 Menimbang : a. bahwa dengan Peraturan Menteri Pertanian Nomor 17/Permentan/OT.140/2/2010 telah ditetapkan Pedoman Penetapan Harga Pembelian Tandan Buah Segar (TBS) Kelapa Sawit Produksi Pekebun;
-b. bahwa usaha di bidang perkebunan telah mengalami perkembangan, dan untuk memberikan perlindungan perolehan harga yang wajar dari Tandan Buah Segar Kelapa Sawit produksi pekebun serta menghindari persaingan tidak sehat diantara Pabrik Kelapa Sawit perlu meninjau kembali Peraturan Menteri Pertanian Nomor 17/Permentan/OT.140/2/2010;
+            b. bahwa usaha di bidang perkebunan telah mengalami perkembangan, dan untuk memberikan perlindungan perolehan harga yang wajar dari Tandan Buah Segar Kelapa Sawit produksi pekebun serta menghindari persaingan tidak sehat diantara Pabrik Kelapa Sawit perlu meninjau kembali Peraturan Menteri Pertanian Nomor 17/Permentan/OT.140/2/2010;
 
 Mengingat : 1. Undang-Undang Nomor 18 Tahun 2004 tentang Perkebunan (Lembaran Negara Tahun 2004 Nomor 85, Tambahan Lembaran Negara 4411);
-2. Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Tahun 2004 Nomor 125, Tambahan Lembaran Negara Nomor 4437) juncto Undang-Undang Nomor 12 Tahun 2008 (Lembaran Negara Tahun 2008 Nomor 59, Tambahan Lembaran Negara Nomor 4844);
-3. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang Pembagian Urusan Antara Pemerintah, Pemerintahan Daerah Provinsi, dan Pemerintahan Daerah Kabupaten/Kota (Lembaran Negara Tahun 2007 Nomor 82, Tambahan Lembaran Negara Nomor 4737);
-4. Keputusan Presiden Nomor 84/P Tahun 2009 tentang Pembentukan Kabinet Indonesia Bersatu II;
-5. Peraturan Presiden Nomor 47 Tahun 2009 tentang Pembentukan dan Organisasi Kementerian Negara jis Peraturan Presiden Nomor 91 Tahun 2011 (Lembaran Negara Tahun 2011 Nomor 141);
-6. Peraturan Presiden Nomor 24 Tahun 2010 tentang Kedudukan, Tugas dan Fungsi Kementerian Negara serta Susunan Organisasi, Tugas dan Fungsi Eselon I Kementerian Negara juncto Peraturan Presiden Nomor 92 Tahun 2011 (Lembaran Negara Tahun 2011 Nomor 142);
-7. Keputusan Menteri Pertanian Nomor 61/Permentan/OT.140/10/2010 tentang Organisasi dan Tata Kerja Kementerian Pertanian;
+            2. Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Tahun 2004 Nomor 125, Tambahan Lembaran Negara Nomor 4437) juncto Undang-Undang Nomor 12 Tahun 2008 (Lembaran Negara Tahun 2008 Nomor 59, Tambahan Lembaran Negara Nomor 4844);
+            3. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang Pembagian Urusan Antara Pemerintah, Pemerintahan Daerah Provinsi, dan Pemerintahan Daerah Kabupaten/Kota (Lembaran Negara Tahun 2007 Nomor 82, Tambahan Lembaran Negara Nomor 4737);
+            4. Keputusan Presiden Nomor 84/P Tahun 2009 tentang Pembentukan Kabinet Indonesia Bersatu II;
+            5. Peraturan Presiden Nomor 47 Tahun 2009 tentang Pembentukan dan Organisasi Kementerian Negara jis Peraturan Presiden Nomor 91 Tahun 2011 (Lembaran Negara Tahun 2011 Nomor 141);
+            6. Peraturan Presiden Nomor 24 Tahun 2010 tentang Kedudukan, Tugas dan Fungsi Kementerian Negara serta Susunan Organisasi, Tugas dan Fungsi Eselon I Kementerian Negara juncto Peraturan Presiden Nomor 92 Tahun 2011 (Lembaran Negara Tahun 2011 Nomor 142);
+            7. Keputusan Menteri Pertanian Nomor 61/Permentan/OT.140/10/2010 tentang Organisasi dan Tata Kerja Kementerian Pertanian;
 
 MEMUTUSKAN:
 
@@ -56,14 +56,16 @@ RUMUS HARGA PEMBELIAN TBS
 Pasal 5
 (1) Harga pembelian TBS oleh Perusahaan didasarkan pada rumus harga pembelian TBS.
 (2) Rumus harga pembelian TBS sebagaimana dimaksud pada ayat (1) ditetapkan sebagai berikut:
+[rumus_awal]
 H TBS = K { ( Hms x Rms ) + ( His x Ris ) }
+[rumus_akhir]
 dengan pengertian:
 H TBS : Harga TBS yang diterima oleh pekebun di tingkat pabrik, dinyatakan dalam Rp/Kg;
-K : Indeks proporsi yang menunjukan bagian yang diterima oleh pekebun, dinyatakan dalam persentase (%);
-Hms : Harga rata-rata minyak sawit kasar (CPO) tertimbang realisasi penjualan ekspor (FOB) dan lokal masing-masing perusahaan pada periode sebelumnya, dinyatakan dalam Rp/Kg;
-Rms : Rendemen minyak sawit kasar (CPO), dinyatakan dalam persentase (%);
-His : Harga rata-rata inti sawit (PK) tertimbang realisasi penjualan ekspor (FOB) dan lokal masing-masing perusahaan pada periode sebelumnya, dinyatakan dalam Rp/Kg;
-Ris : Rendemen inti sawit (PK), dinyatakan dalam persentase (%).
+K     : Indeks proporsi yang menunjukan bagian yang diterima oleh pekebun, dinyatakan dalam persentase (%);
+Hms   : Harga rata-rata minyak sawit kasar (CPO) tertimbang realisasi penjualan ekspor (FOB) dan lokal masing-masing perusahaan pada periode sebelumnya, dinyatakan dalam Rp/Kg;
+Rms   : Rendemen minyak sawit kasar (CPO), dinyatakan dalam persentase (%);
+His   : Harga rata-rata inti sawit (PK) tertimbang realisasi penjualan ekspor (FOB) dan lokal masing-masing perusahaan pada periode sebelumnya, dinyatakan dalam Rp/Kg;
+Ris   : Rendemen inti sawit (PK), dinyatakan dalam persentase (%).
 (3) Harga pembelian TBS sebagaimana dimaksud pada ayat (1) ditetapkan paling kurang 1 (satu) kali setiap bulan berdasarkan harga riil rata-rata tertimbang minyak sawit kasar (CPO) dan inti sawit (PK) sesuai realisasi penjualan ekspor (FOB) dan lokal masing-masing perusahaan.
 (4) Harga pembelian TBS sebagaimana dimaksud pada ayat (3) merupakan harga franko pabrik pengolahan kelapa sawit.
 (5) Harga pembelian TBS sebagaimana dimaksud pada ayat (4) bukan merupakan harga dasar TBS.
@@ -78,18 +80,18 @@ Pasal 7
 
 Pasal 8
 (1) Tim Penetapan Harga TBS sebagaimana dimaksud dalam Pasal 6 dibentuk oleh Gubernur dengan keanggotaan terdiri dari unsur:
-a. Pemerintah Provinsi, Kabupaten/Kota;
-b. Dinas Provinsi, Kabupaten/Kota;
-c. Perusahaan Perkebunan;
-d. Wakil Pekebun (kelembagaan pekebun); dan
-e. Instansi terkait lainnya.
+    a. Pemerintah Provinsi, Kabupaten/Kota;
+    b. Dinas Provinsi, Kabupaten/Kota;
+    c. Perusahaan Perkebunan;
+    d. Wakil Pekebun (kelembagaan pekebun); dan
+    e. Instansi terkait lainnya.
 (2) Tim Penetapan Harga Pembelian TBS sebagaimana dimaksud pada ayat (1) mempunyai tugas:
-a. merumuskan dan mengusulkan besarnya Indeks "K" kepada Gubernur;
-b. memantau penerapan besarnya Indeks "K" serta komponen lainnya yang terkait dalam rumus harga pembelian TBS;
-c. memantau pelaksanaan penerapan penetapan rendemen minyak sawit kasar (CPO) dan inti sawit (PK);
-d. memantau pelaksanaan ketentuan dan penetapan harga pembelian TBS;
-e. menyampaikan harga rata-rata penjualan minyak sawit kasar (CPO) dan inti sawit (PK) kepada perusahaan dan pekebun/kelembagaan pekebun secara periodik;
-f. menyelesaikan permasalahan yang timbul antara perusahaan dan pekebun/kelembagaan pekebun.
+    a. merumuskan dan mengusulkan besarnya Indeks "K" kepada Gubernur;
+    b. memantau penerapan besarnya Indeks "K" serta komponen lainnya yang terkait dalam rumus harga pembelian TBS;
+    c. memantau pelaksanaan penerapan penetapan rendemen minyak sawit kasar (CPO) dan inti sawit (PK);
+    d. memantau pelaksanaan ketentuan dan penetapan harga pembelian TBS;
+    e. menyampaikan harga rata-rata penjualan minyak sawit kasar (CPO) dan inti sawit (PK) kepada perusahaan dan pekebun/kelembagaan pekebun secara periodik;
+    f. menyelesaikan permasalahan yang timbul antara perusahaan dan pekebun/kelembagaan pekebun.
 (3) Pembiayaan Tim Penetapan Harga Pembelian TBS sebagaimana dimaksud pada ayat (2) dibebankan pada anggaran APBN dan APBD Provinsi.
 
 BAB III
@@ -103,9 +105,9 @@ Pasal 9
 Pasal 10
 (1) Pembinaan terhadap pekebun dan/atau kelembagaan pekebun dilakukan oleh perusahaan perkebunan.
 (2) Pembinaan sebagaimana dimaksud pada ayat (1), dilaksanakan dengan:
-a. melakukan bimbingan teknis budidaya dan manajemen;
-b. mengumumkan harga pembelian TBS paling kurang 1 (satu) kali setiap bulan berjalan; dan/atau
-c. menyampaikan dokumen harga dan jumlah penjualan minyak sawit kasar (CPO) dan Inti Sawit (PK), paling kurang 1 (satu) kali setiap bulan kepada dinas provinsi untuk di klarifikasi Tim Penetapan Harga TBS.
+    a. melakukan bimbingan teknis budidaya dan manajemen;
+    b. mengumumkan harga pembelian TBS paling kurang 1 (satu) kali setiap bulan berjalan; dan/atau
+    c. menyampaikan dokumen harga dan jumlah penjualan minyak sawit kasar (CPO) dan Inti Sawit (PK), paling kurang 1 (satu) kali setiap bulan kepada dinas provinsi untuk di klarifikasi Tim Penetapan Harga TBS.
 
 BAB IV
 SANKSI
@@ -151,100 +153,154 @@ AMIR SYAMSUDIN
 BERITA NEGARA REPUBLIK INDONESIA TAHUN 2013 NOMOR 217
 
 LAMPIRAN PERATURAN MENTERI PERTANIAN
-NOMOR : 14/Permentan/OT.140/2/2013
+NOMOR   : 14/Permentan/OT.140/2/2013
 TANGGAL : 5 Pebruari 2013
 
 TATA CARA PANEN, MUTU PANEN, SORTASI, PENGANGKUTAN, PENETAPAN BERAT TBS, SANKSI, INSENTIF, PEMBELIAN DAN PEMBAYARAN, PERHITUNGAN BESARNYA INDEKS "K" SERTA BESARNYA RENDEMEN MINYAK SAWIT KASAR DAN INTI SAWIT (PK)
 
 A. TATA CARA PANEN
-1. TBS yang dapat diterima pabrik minimal 3 Kg (tiga kilogram) per tandan.
-2. Rotasi panen dilakukan sekali dalam tujuh hari dan pada keadaan tertentu disesuaikan dengan kenyataan potensi produksi.
-3. Brondolan yang dikirim ke pabrik harus bersih, tidak bercampur tanah, pasir dan sampah lainnya.
-4. Brondolan yang dikumpulkan dari piringan dimasukkan dalam karung dan dikirim ke PKS bersama-sama dengan tandannya.
-5. TBS yang dipanen harus dapat diterima di pabrik pada hari yang sama (tidak lebih dari 48 (empat puluh delapan) jam sejak panen).
+   1. TBS yang dapat diterima pabrik minimal 3 Kg (tiga kilogram) per tandan.
+   2. Rotasi panen dilakukan sekali dalam tujuh hari dan pada keadaan tertentu disesuaikan dengan kenyataan potensi produksi.
+   3. Brondolan yang dikirim ke pabrik harus bersih, tidak bercampur tanah, pasir dan sampah lainnya.
+   4. Brondolan yang dikumpulkan dari piringan dimasukkan dalam karung dan dikirim ke PKS bersama-sama dengan tandannya.
+   5. TBS yang dipanen harus dapat diterima di pabrik pada hari yang sama (tidak lebih dari 48 (empat puluh delapan) jam sejak panen).
 
 B. MUTU PANEN
-1. Mutu panen TBS adalah hasil penilaian terhadap kematangan panen, keadaan fraksi buah, buah menginap atau tidak, gagang panjang dan pendek serta jumlah dan mutu brondolan yang diserahkan.
-2. Matang panen untuk tandan yang boleh dipotong adalah apabila ada brondolan dipiringan sebanyak 1 (satu) butir lepas per Kg TBS.
-3. Buah menginap adalah buah yang diserahkan ke pabrik setelah lebih 48 (empat puluh delapan) jam sejak dipanen.
-4. Gagang panjang adalah gagang TBS yang panjangnya lebih dari 2,5 cm (dua koma lima sentimeter) diukur dari pangkal tandan dan potongan huruf V.
-5. Penilaian mutu panen TBS yang masuk ke pabrik diberlakukan bagi seluruh TBS, baik yang berasal dari perusahaan, pekebun/kelembagaan pekebun dan kebun lainnya.
+   1. Mutu panen TBS adalah hasil penilaian terhadap kematangan panen, keadaan fraksi buah, buah menginap atau tidak, gagang panjang dan pendek serta jumlah dan mutu brondolan yang diserahkan.
+   2. Matang panen untuk tandan yang boleh dipotong adalah apabila ada brondolan dipiringan sebanyak 1 (satu) butir lepas per Kg TBS.
+   3. Buah menginap adalah buah yang diserahkan ke pabrik setelah lebih 48 (empat puluh delapan) jam sejak dipanen.
+   4. Gagang panjang adalah gagang TBS yang panjangnya lebih dari 2,5 cm (dua koma lima sentimeter) diukur dari pangkal tandan dan potongan huruf V.
+   5. Penilaian mutu panen TBS yang masuk ke pabrik diberlakukan bagi seluruh TBS, baik yang berasal dari perusahaan, pekebun/kelembagaan pekebun dan kebun lainnya.
 
 C. SORTASI TBS
-1. Sortasi mutu panen TBS di pabrik dilakukan oleh karyawan pabrik bersama wakil pekebun/kelembagaan pekebun.
-2. Sortasi TBS dilakukan melalui 2 (dua) cara antara lain:
-a. secara acak, minimal 5% (lima persen) dari truk yang datang dari setiap bagian kebun (afdeling) di loading ramp pabrik, TBS dalam truk yang disortasi, dibongkar dan dituang dilantai; atau
-b. pemeriksaan total, pemeriksaaan total dilakukan masing-masing truk yang masuk dalam loading ramp pabrik dibongkar dan dituang serta disortasi dalam alat sortasi oleh petugas pabrik yang diawasi oleh pekebun atau kelembagaan pekebun.
-3. Hasil sortasi di pabrik disampaikan secara resmi oleh perusahaan inti kepada pekebun melalui kelembagaan pekebun.
-4. TBS yang diterima di pabrik harus memenuhi persyaratan sebagai berikut:
-a. brondolan harus dikirim ke pabrik dan jumlah brondolan minimal 12,5% (dua belas koma lima persen) dari berat TBS keseluruhan yang diterima pabrik;
-b. tandan terdiri dari buah mentah 0% (nol persen), buah matang minimal 95% (sembilan puluh lima persen) dan buah lewat matang maksimal 5% (lima persen);
-c. tandan tidak boleh bergagang panjang;
-d. tidak terdapat tandan yang kosong;
-e. tandan maupun brondolan segar dalam karung, harus bebas dari sampah, tanah, pasir atau benda lainnya;
-f. tidak terdapat TBS yang dikirim ke pabrik beratnya kurang dari 3 Kg (tiga kilogram) per tandan.
+   1. Sortasi mutu panen TBS di pabrik dilakukan oleh karyawan pabrik bersama wakil pekebun/kelembagaan pekebun.
+   2. Sortasi TBS dilakukan melalui 2 (dua) cara antara lain:
+      a. secara acak, minimal 5% (lima persen) dari truk yang datang dari setiap bagian kebun (afdeling) di loading ramp pabrik, TBS dalam truk yang disortasi, dibongkar dan dituang dilantai;
+      atau
+      b. pemeriksaan total, pemeriksaaan total dilakukan masing-masing truk yang masuk dalam loading ramp pabrik dibongkar dan dituang serta disortasi dalam alat sortasi oleh petugas pabrik yang diawasi oleh pekebun atau kelembagaan pekebun.
+   3. Hasil sortasi di pabrik disampaikan secara resmi oleh perusahaan inti kepada pekebun melalui kelembagaan pekebun.
+   4. TBS yang diterima di pabrik harus memenuhi persyaratan sebagai berikut:
+      a. brondolan harus dikirim ke pabrik dan jumlah brondolan minimal 12,5% (dua belas koma lima persen) dari berat TBS keseluruhan yang diterima pabrik;
+      b. tandan terdiri dari buah mentah 0% (nol persen), buah matang minimal 95% (sembilan puluh lima persen) dan buah lewat matang maksimal 5% (lima persen);
+      c. tandan tidak boleh bergagang panjang;
+      d. tidak terdapat tandan yang kosong;
+      e. tandan maupun brondolan segar dalam karung, harus bebas dari sampah, tanah, pasir atau benda lainnya;
+      f. tidak terdapat TBS yang dikirim ke pabrik beratnya kurang dari 3 Kg (tiga kilogram) per tandan.
 
 D. PENGANGKUTAN TBS
-1. Kelompok pekebun atau kelembagaan pekebun bertanggung jawab dalam pengangkutan TBS dari Tempat Pemungutan Hasil (TPH) sampai ke pabrik dan TBS tidak diperkenankan tertinggal dalam sarana angkutan.
-2. Sarana angkutan TBS yang dipersiapkan hendaknya sebanding dengan produksi TBS yang dipanen.
-3. Sarana angkutan TBS diwajibkan menggunakan jaring penutup untuk menghindari jatuhnya TBS.
+   1. Kelompok pekebun atau kelembagaan pekebun bertanggung jawab dalam pengangkutan TBS dari Tempat Pemungutan Hasil (TPH) sampai ke pabrik dan TBS tidak diperkenankan tertinggal dalam sarana angkutan.
+   2. Sarana angkutan TBS yang dipersiapkan hendaknya sebanding dengan produksi TBS yang dipanen.
+   3. Sarana angkutan TBS diwajibkan menggunakan jaring penutup untuk menghindari jatuhnya TBS.
 
 E. PENETAPAN BERAT TBS
-Penimbangan TBS dilakukan di pabrik perusahaan inti/mitra dengan timbangan yang telah ditera secara periodik oleh instansi berwenang yaitu Badan Metrologi.
+   Penimbangan TBS dilakukan di pabrik perusahaan inti/mitra dengan timbangan yang telah ditera secara periodik oleh instansi berwenang yaitu Badan Metrologi.
 
 F. INSENTIF
-Jika buah yang dikirim memenuhi persyaratan sebagaimana tercantum dalam Huruf C Angka 4, maka kepada yang bersangkutan diberi insentif sebesar 4% (empat persen) dari TBS yang diterima pabrik.
+   Jika buah yang dikirim memenuhi persyaratan sebagaimana tercantum dalam Huruf C Angka 4, maka kepada yang bersangkutan diberi insentif sebesar 4% (empat persen) dari TBS yang diterima pabrik.
 
 G. TATA CARA PEMBELIAN DAN PEMBAYARAN
-1. Kelembagaan pekebun (atas nama semua pekebun) menyerahkan TBS kepada perusahaan inti sesuai dengan perjanjian.
-2. Penimbangan TBS di pabrik dilakukan oleh perusahaan inti/mitra dan disaksikan oleh petugas yang mewakili dari kelembagaan pekebun.
-3. Petugas yang mewakili kelembagaan pekebun mencatat besarnya penyetoran hasil TBS masing-masing anggotanya dan tembusannya disampaikan kepada perusahaan inti/mitra.
-4. Biaya angkut TBS dari kebun sampai ke pabrik menjadi beban pekebun.
-5. Hasil pembelian TBS pekebun dibayarkan oleh perusahaan inti kepada pekebun setelah dikurangi kewajiban-kewajiban pekebun sesuai dengan ketentuan. Pembayaran dilakukan minimal 1 (satu) kali sebulan atau berdasarkan kesepakatan bersama antara kelembagaan pekebun dengan perusahaan inti.
+   1. Kelembagaan pekebun (atas nama semua pekebun) menyerahkan TBS kepada perusahaan inti sesuai dengan perjanjian.
+   2. Penimbangan TBS di pabrik dilakukan oleh perusahaan inti/mitra dan disaksikan oleh petugas yang mewakili dari kelembagaan pekebun.
+   3. Petugas yang mewakili kelembagaan pekebun mencatat besarnya penyetoran hasil TBS masing-masing anggotanya dan tembusannya disampaikan kepada perusahaan inti/mitra.
+   4. Biaya angkut TBS dari kebun sampai ke pabrik menjadi beban pekebun.
+   5. Hasil pembelian TBS pekebun dibayarkan oleh perusahaan inti kepada pekebun setelah dikurangi kewajiban-kewajiban pekebun sesuai dengan ketentuan.
+      Pembayaran dilakukan minimal 1 (satu) kali sebulan atau berdasarkan kesepakatan bersama antara kelembagaan pekebun dengan perusahaan inti.
 
 H. CARA PERHITUNGAN BESARNYA INDEKS "K"
-1. Penetapan indeks "K"
-Penetapan indeks "K" dilakukan berdasarkan harga penjualan, biaya pengolahan dan pemasaran minyak sawit kasar (CPO) dan Inti Sawit (PK) serta biaya penyusutan.
-2. Komponen Biaya Pengolahan dan Pemasaran Minyak Sawit Kasar (CPO) dan Inti Sawit (PK) serta penyusutan pabrik sebagai berikut:
-(Tabel Komponen Biaya mengikuti format baku sesuai PDF asli)
-3. Biaya Penyusutan
-Besarnya biaya penyusutan dihitung dengan menggunakan metode penyusutan satuan hasil produksi (service output). Berdasarkan metode besarnya biaya penyusutan diperoleh melalui cara membagi harga perolehan (aktiva) pabrik secara proporsional (dari nilai investasi) dikurangi nilai sisa dengan perkiraan jumlah produksi selama umur ekonomis.
-Rumus Biaya Penyusutan = (Harga perolehan Pabrik - Nilai Sisa) / Perkiraan Jumlah Produksi
-4. Perhitungan Besarnya Indeks "K"
-Besarnya Indeks "K" dihitung dengan rumus sebagai berikut:
-K = (Htbs / ((Hms X Rms) + (His X Ris))) x 100%
-Dengan pengertian:
-Htbs = Nilai TBS di pabrik
-Hms = Nilai realisasi rata-rata tertimbang penjualan ekspor dan lokal minyak sawit kasar (harga FOB bersih)
-His = Nilai realisasi rata-rata tertimbang penjualan ekspor dan lokal inti sawit
-Rms = Rendemen minyak sawit kasar
-Ris = Rendemen inti sawit
-5. Cara Perhitungan Besarnya Indeks "K"
-(Tabel Perhitungan Indeks K mengikuti format baku sesuai PDF asli)
-6. Besarnya Rendemen Minyak Sawit dan Inti Sawit TBS Produksi Pekebun
-Berdasarkan rendemen realisasi yang berasal dari TBS dengan umur tanaman berbeda dan kondisi masing-masing wilayah sebagaimana tercantum dalam Tabel Besarnya Rendemen Minyak dan Inti Sawit Tandan Buah Segar Produksi Pekebun yang merupakan bagian tidak terpisahkan dari Peraturan ini.
+   1. Penetapan indeks "K"
+      Penetapan indeks "K" dilakukan berdasarkan harga penjualan, biaya pengolahan dan pemasaran minyak sawit kasar (CPO) dan Inti Sawit (PK) serta biaya penyusutan.
+   2. Komponen Biaya Pengolahan dan Pemasaran Minyak Sawit Kasar (CPO) dan Inti Sawit (PK) serta penyusutan pabrik sebagai berikut:
+
+No.	Jenis Biaya	Rp/Kg	Keterangan
+I.	PENGOLAHAN		Jumlah seluruh biaya pengolahan (A+B+C+D+E) yang dikeluarkan perusahaan
+A.	Biaya Umum dan Lingkungan		
+	1. Umum Pabrik		
+	2. Pengolahan limbah		
+B.	Gaji dan Tunjangan		
+	1. Gaji dan tunjangan pegawai staf di pabrik		
+	2. Gaji dan upah pegawai non staf di pabrik		
+C.	Biaya Langsung		
+	1. Alat-alat dan perkakas kecil		
+	2. Bahan kimia dan perlengkapan untuk pengolahan		
+	3. Bahan dan alat analisa		
+	4. Bahan bakar dan minyak pelumas		
+	5. Penerangan dan air		
+	6. Pengangkutan dalam pabrik (forklift)		
+D.	Pemeliharaan		
+	1. Pemeliharaan bangunan pabrik		
+	2. Pemeliharaan mesin, instalasi dan perlengkapan lainnya		
+E.	Biaya Pengepakan/Kemasan		
+II.	PEMASARAN		Jumlah seluruh pengeluaran biaya pemasaran sesuai dengan pengeluaran riil masing-masing perusahaan
+	1. Sewa tangki timbun		
+	2. Instalasi/Pemompaan minyak sawit kasar		
+	3. Asuransi barang/produksi		
+	4. Ongkos pemuatan pelabuhan		
+	5. Provisi Bank		
+	6. Analisa dan sertifikat		
+III.	PENGANGKUTAN KE PELABUHAN		
+	Pengiriman dari pabrik ke pelabuhan		
+IV.	PENYUSUTAN PABRIK		Dihitung menurut harga perolehan pabrik secara proporsional dikurangi nilai sisa, dibagi dengan perkiraan jumlah produksi berdasarkan kapasitas pabrik
+	Penyusutan mesin, instalasi dan bangunan pabrik		
+
+   3. Biaya Penyusutan
+      Besarnya biaya penyusutan dihitung dengan menggunakan metode penyusutan satuan hasil produksi (service output).
+      Berdasarkan metode besarnya biaya penyusutan diperoleh melalui cara membagi harga perolehan (aktiva) pabrik secara proporsional (dari nilai investasi) dikurangi nilai sisa dengan perkiraan jumlah produksi selama umur ekonomis.
+      Rumus Biaya Penyusutan = (Harga perolehan Pabrik - Nilai Sisa) / Perkiraan Jumlah Produksi
+   4. Perhitungan Besarnya Indeks "K"
+      Besarnya Indeks "K" dihitung dengan rumus sebagai berikut:
+      [rumus_awa;]
+      K = (Htbs / ((Hms X Rms) + (His X Ris))) x 100%
+      [rumus_akhir]
+      Dengan pengertian:
+      Htbs = Nilai TBS di pabrik
+      Hms  = Nilai realisasi rata-rata tertimbang penjualan ekspor dan lokal minyak sawit kasar (harga FOB bersih)
+      His  = Nilai realisasi rata-rata tertimbang penjualan ekspor dan lokal inti sawit
+      Rms  = Rendemen minyak sawit kasar
+      Ris  = Rendemen inti sawit
+
+   5. Cara Perhitungan Besarnya Indeks "K"
+[tabel_awal]
+No	Uraian	Minyak Sawit		Inti Sawit		Tandan Buah Segar	Keterangan
+		Ekspor	Lokal	Ekspor	Lokal		
+1.	Harga ms dan is (FOB)	X	X	X	X		Harga penjualan CPO dan (PK) pada periode sebelumnya
+2.	Pajak	X	X	X	X		Seluruh pajak yang dikenakan sehubungan dengan pelaksanaan penjualan ms dan is
+3.	Biaya Pemasaran	X	X	X	X		Sesuai dengan pengeluaran riil No. 1-2-3
+4.	Harga ms dan is (FOB bersih)	X	X	X	X		
+5.	Pengakutan ke pelabuhan	X	X	X	X		Dihitung menurut pengeluaran riil No 4 dikurangi No 5
+6.	Harga bersih ms dan is di pabrik	X	X	X	X		
+7.	Rendemen	..%	..%	..%	..%		Rendemen realisasi sesuai umur tanaman seperti pada tabel besaran rendemen
+8.	Harga TBS	X	X	X	X		No 6 x No 7
+9.	Persentase volume penjualan	..%	..%	..%	..%		Rata-rata presentase volume penjualan pada periode sebelumnya
+10.	Harga TBS eks pabrik rata-rata tertimbang					X	Harga rata-rata TBS tertimbang ekspor dan lokal (hasil perkalian No 8 x No 9)
+11.	Biaya pengolahan					X	Jumlah seluruh biaya pengolahan yang dikeluarkan pada periode sebelumnya
+12.	Penyusutan					X	Dihitung menurut harga perolehan pabrik secara proporsional dikurangi nilai sisa dibagi dengan perkiraan jumlah produksi berdasarkan kapasitas pabrik, umur ekonomis pabrik selama 15 tahun
+13.	Nilai TBS ditimbangan pabrik					X	Dihitung 10 - 11 - 12
+14.	Nilai TBS di pabrik					X	Dihitung No. 13
+[tabel_akhir]
+   6. Besarnya Rendemen Minyak Sawit dan Inti Sawit TBS Produksi Pekebun
+      Berdasarkan rendemen realisasi yang berasal dari TBS dengan umur tanaman berbeda dan kondisi masing-masing wilayah sebagaimana tercantum dalam Tabel Besarnya Rendemen Minyak dan Inti Sawit Tandan Buah Segar Produksi Pekebun yang merupakan bagian tidak terpisahkan dari Peraturan ini.
 
 I. SANKSI
-1. Sanksi diberlakukan bagi seluruh TBS yang diolah di pabrik sebagai berikut:
-a. Buah mentah (gabungan fraksi 00 dengan fraksi 0) didenda sebesar 50% x berat BM x berat TBS yang diterima dengan pengertian:
-angka 50% : efisiensi yang dicapai pabrik bila mengolah buah mentah.
-BM : persentase buah sangat mentah.
-b. Buah lewat matang didenda sebesar 25% x (BLM - 5%) x berat TBS yang diterima, dengan pengertian:
-angka 25% : banyaknya brondolan yang tidak terkutip karena Lewat matang.
-BLM : persentase jumlah buah lewat matang.
-angka 5% : batasan BLM yang diperbolehkan.
-c. Tandan kosong didenda sebesar 100% x TK x berat TBS yang diterima dengan pengertian:
-TK : persentase jumlah tandan kosong.
-d. Buah gagang panjang (BG) didenda sebesar 1% x BG x berat TBS yang diterima dengan pengertian:
-angka 1% : perkiraan berat gagang panjang dan berat TBS.
-BG : persentase jumlah tandan bergagang panjang.
-e. Brondolan yang diterima lebih kecil dari 12,5% didenda sebesar 30% x (12,5% - X) x berat TBS yang diterima, dengan pengertian:
-angka 30% : kadar minyak dan inti sawit dalam brondolan.
-X : persentase jumlah brondolan yang dikirim.
-f. Brondolan yang diterima harus bersih, jika diterima kotor didenda sebesar 2 x berat kotor.
-g. TBS yang dikirim ke pabrik beratnya minimal 3 Kg per tandan, jika kurang dari 3 Kg per tandan didenda sebesar 70% x berat TBS yang diterima.
-2. TBS yang diterima di pabrik perusahaan inti/mitra lebih dari 48 (empat puluh delapan) jam setelah panen dikenakan denda.
-3. Pengaturan lebih lanjut dari pelaksanaan sanksi dan atau insentif tersebut diserahkan kepada perusahaan dan pekebun/kelembagaan pekebun.
+   1. Sanksi diberlakukan bagi seluruh TBS yang diolah di pabrik sebagai berikut:
+      a. Buah mentah (gabungan fraksi 00 dengan fraksi 0) didenda sebesar 50% x berat BM x berat TBS yang diterima dengan pengertian:
+         angka 50% : efisiensi yang dicapai pabrik bila mengolah buah mentah.
+         BM        : persentase buah sangat mentah.
+      b. Buah lewat matang didenda sebesar 25% x (BLM - 5%) x berat TBS yang diterima, dengan pengertian:
+         angka 25% : banyaknya brondolan yang tidak terkutip karena Lewat matang.
+         BLM       : persentase jumlah buah lewat matang.
+         angka 5%  : batasan BLM yang diperbolehkan.
+      c. Tandan kosong didenda sebesar 100% x TK x berat TBS yang diterima dengan pengertian:
+         TK : persentase jumlah tandan kosong.
+      d. Buah gagang panjang (BG) didenda sebesar 1% x BG x berat TBS yang diterima dengan pengertian:
+         angka 1% : perkiraan berat gagang panjang dan berat TBS.
+         BG       : persentase jumlah tandan bergagang panjang.
+      e. Brondolan yang diterima lebih kecil dari 12,5% didenda sebesar 30% x (12,5% - X) x berat TBS yang diterima, dengan pengertian:
+         angka 30% : kadar minyak dan inti sawit dalam brondolan.
+         X         : persentase jumlah brondolan yang dikirim.
+      f. Brondolan yang diterima harus bersih, jika diterima kotor didenda sebesar 2 x berat kotor.
+      g. TBS yang dikirim ke pabrik beratnya minimal 3 Kg per tandan, jika kurang dari 3 Kg per tandan didenda sebesar 70% x berat TBS yang diterima.
+   2. TBS yang diterima di pabrik perusahaan inti/mitra lebih dari 48 (empat puluh delapan) jam setelah panen dikenakan denda.
+   3. Pengaturan lebih lanjut dari pelaksanaan sanksi dan atau insentif tersebut diserahkan kepada perusahaan dan pekebun/kelembagaan pekebun.
 
 MENTERI PERTANIAN,
 ttd.

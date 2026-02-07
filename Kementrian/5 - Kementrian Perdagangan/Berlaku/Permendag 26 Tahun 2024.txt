@@ -686,7 +686,7 @@ TENTANG
 KETENTUAN EKSPOR PRODUK TURUNAN KELAPA SAWIT
 
 PRODUK TURUNAN KELAPA SAWIT
-
+[tabel_awal]
 No | Pos Tarif/HS | Uraian Barang | Jenis Persetujuan Ekspor (PE) | Satuan
 --- | --- | --- | --- | ---
 1. | 15.11 | Minyak kelapa sawit dan fraksinya, dimurnikan maupun tidak, tetapi tidak dimodifikasi secara kimia. | |
@@ -737,7 +737,7 @@ No | Pos Tarif/HS | Uraian Barang | Jenis Persetujuan Ekspor (PE) | Satuan
 | | Palm Oil Mill Effluent Oil; | PE Produk Turunan Kelapa Sawit untuk Program Percepatan |
 | | High Acid Palm Oil Residue; | |
 | | Minyak Tandan Kosong Kelapa Sawit/Empty Fruit Bunch Oil | |
-
+[tabel_akhir]
 MENTERI PERDAGANGAN REPUBLIK INDONESIA,
 ttd.
 ZULKIFLI HASAN

@@ -326,11 +326,11 @@ Biaya pengangkutan TBS ke pabrik merupakan beban Pekebun, karena itu tidak dimas
 
 3. Biaya Penyusutan
 Besarnya biaya penyusutan dihitung dengan menggunakan metode penyusutan satuan hasil produksi (service output). Berdasarkan metode besarnya biaya penyusutan diperoleh melalui cara membagi harga perolehan (aktiva) pabrik secara proporsional (dari nilai investasi) di kurangi nilai sisa dengan perkiraan jumlah produksi selama umur ekonomis.
-
+[rumus_awal]
                   Harga perolehan Pabrik - Nilai Sisa
 Biaya Penyusutan = -----------------------------------
                       Perkiraan Jumlah Produksi
-
+[rumus_akhir]
 Dengan Pengertian:
 a. Harga perolehan pabrik dihitung berdasarkan seluruh biaya pembangunan pabrik mulai dari harga beli mesin dan peralatan, biaya pemasangan dan biaya uji coba serta biaya bangunan;
 b. Nilai sisa dihitung berdasarkan harga pabrik setelah melewati umur ekonomisnya dan besarnya sangat tergantung kepada kondisi masing-masing pabrik, tetapi nilai sisa ditetapkan 5% (lima persen) dari harga perolehan pabrik;
@@ -339,11 +339,11 @@ d. Realisasi tambahan investasi baru dihitung dalam total biaya penyusutan.
 
 4. Perhitungan Besarnya Indeks "K"
 Besarnya Indeks "K" dihitung dengan rumus sebagai berikut:
-
+[rumus_awal]
              Htbs (P-1)
 K(P-1) = ------------------------------------------------------------- X 100%
          (Hms(P-1) X Rms (actPKS)) + (His (P-1) X Ris (act PKS))
-
+[rumus_akhir]
 Dengan pengertian :
 HTBS (P-1)    = Harga TBS di Pabrik bulan lalu.
 Hms (P-1)     = Nilai realisasi rata-rata tertimbang penjualan ekspor dan lokal minyak sawit kasar/CPO (harga FOB bersih) pada bulan sebelumnya.
@@ -360,7 +360,7 @@ c. Overhead kebun plasma (kegiatan penetapan harga TBS, pembinaan Pekebun dan ke
 Susunan keanggotaan dan biaya operasional Tim penetapan harga TBS dan perusahaan perkebunan wajib menyampaikan laporan penerimaan dan pemanfaatan Biaya Operasional Tidak Langsung (BOTL) paling singkat 1 (satu) bulan sekali kepada Gubernur dan Tim penetapan harga pembelian TBS.
 
 6. Cara Perhitungan Besarnya Indeks "K"
-
+[tabel_awal]
 No. | Uraian | Minyak Sawit | Inti Sawit | TBS | Keterangan
 --- | --- | --- | --- | --- | ---
 | | | Ekspor | Lokal | Ekspor | Lokal | |
@@ -380,11 +380,13 @@ No. | Uraian | Minyak Sawit | Inti Sawit | TBS | Keterangan
 14. | Nilai TBS ditimbangan pabrik | | | | | X | No. 10 dikurangi No. 11 dan No. 12.
 15. | Biaya Operasional tidak langsung (BOTL) | | | | | X | No. 13 dikurangi No. 14.
 16. | Nilai TBS di Pabrik | | | | | X | No. 13 dikurangi No. 14.
-
+[tabel_akhir]
 Keterangan:
+[rumus_awal]
              (4 X 7) Minyak sawit + (4 X 7) Inti sawit
 Indeks "K" = ----------------------------------------- x 100%
                                 15
+[rumus_akhir]
 
 GUBERNUR KALIMANTAN SELATAN,
 
@@ -456,12 +458,14 @@ f. kualitas Jalan.
 5. Berdasarkan hasil analisa rendemen maka dapat ditetapkan rendemen TBS pada areal mitra swadaya (yang merupakan kombinasi Tenera dan Dura pada ratio tertentu), yang dituangkan dalam surat perjanjian.
 6. Penetapan rendemen Mitra Swadaya membutuhkan waktu yang lama, maka dapat dilakukan pendekatan berdasarkan perhitungan ratio rendemen antara Dura dan Tenera adalah 20.00% : 22.34%.
 jika dikonversi ke berat Tandan maka:
+[rumus_awal]
                     Berat TBS Dura x 89.5% + Berat Tenera x 100
 Total berat TBS = ----------------------------------------------
                                          ...
+[rumus_akhir]
 
 TABEL RENDEMEN BERDASARKAN JENIS, UMUR TANAMAN DAN KESETARAAN BERAT JENJANG RATA-RATA TANDAN (YANG UMURNYA BERVARIASI)
-
+[tabel_awal]
 NO. | Umur Tanaman (TH) | BJR | Rendemen Tenera | | Rendemen Dura |
 --- | --- | --- | --- | --- | --- | ---
 | | | | CPO, % | PK, % | CPO, % | PK, %
@@ -483,7 +487,7 @@ NO. | Umur Tanaman (TH) | BJR | Rendemen Tenera | | Rendemen Dura |
 16. | 18 | | 21,52 | 5,18 | 19,25 | 5,69
 17. | 19 | | 21,49 | 5,18 | 19,23 | 5,69
 18. | 20 | | 21,39 | 5,18 | 19,13 | 5,69
-
+[tabel_akhir]
 H. TATA CARA PEMBELIAN DAN PEMBAYARAN
 1. Kelembagaan Pekebun (atas nama semua Pekebun) menyerahkan TBS kepada Perusahaan Perkebunan inti sesuai dengan perjanjian.
 2. Penetapan Berat TBS di Pabrik dilakukan oleh Perusahaan Perkebunan inti/mitra dan disaksikan oleh petugas yang mewakili Kelembagaan Pekebun.
@@ -581,7 +585,7 @@ RENDEMEN CPO
 Rendemen CPO dan Kernel dari tanaman dengan umur beraneka ragam menggunakan berat rata-rata TBS yang dikonversi dengan umur tanaman seperti tabel dibawah ini (Tabel 1).
 
 Tabel 1. Rendemen Berdasarkan Jenis, Umur Tanaman dan Kesetaraan Berat Jenjang Rata-Rata Tandan (Yang Umurnya Bervariasi)
-
+[tabel_awal]
 No | Umur Tanaman (TH) | BJR | Rendemen Tenera | | Rendemen Dura |
 ---|---|---|---|---|---|---
 | | | | CPO, % | PK, % | CPO, % | PK, %
@@ -603,7 +607,7 @@ No | Umur Tanaman (TH) | BJR | Rendemen Tenera | | Rendemen Dura |
 16. | 18 | | 21,52 | 5,18 | 19,25 | 5,69
 17. | 19 | | 21,49 | 5,18 | 19,23 | 5,69
 18. | 20 | | 21,39 | 5,18 | 19,13 | 5,69
-
+[tabel_akhir]
 Pasal 5
 PENALTI
 

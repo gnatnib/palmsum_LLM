@@ -212,7 +212,9 @@ Perusahaan Perkebunan didasarkan pada rumus
 harga pembelian TBS.
 (2) Rumus harga pembelian TBS produksi Pekebun
 sebagaimana dimaksud pada ayat (1) sebagai berikut:
+[rumus_awal]
 HTBS(P) = K(P-1) { (HCPO(P) x RCPO(Tab)) + (HPK(P) x RPK(Tab)) }
+[rumus_akhir]
 dengan penjelasan:
 HTBS(P) : Harga TBS yang diterima oleh Pekebun
 di tingkat pabrik, dinyatakan dalam
@@ -278,7 +280,9 @@ rata yang berlaku untuk wilayah yang bersangkutan.
 mendapatkan Indeks "K" sebagaimana dimaksud pada
 ayat (4) menggunakan rumus besaran Indeks "K" yang
 ditetapkan sebagai berikut:
+[rumus_awal]
 K(P-1) = [ HTBS (P-1) / { (HCPO(P-1) x RCPO(Akt PKS)) + (HPK(P-1) x RPK(Akt PKS)) } ] x 100%
+[rumus_akhir]
 dengan penjelasan:
 HTBS(P-1) : Harga TBS di pabrik periode
 sebelumnya.

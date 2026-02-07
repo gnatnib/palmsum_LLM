@@ -296,7 +296,9 @@ KELAPA SAWIT PRODUKSI PEKEBUN DI DAERAH
 
 PENGHITUNGAN INDEKS "K"
 1. Rumus Penetapan Indeks "K" sebagai berikut:
+[rumus_awal]
 K (P-1) = [HTBS (P-1) / ((HCPO (P-1) x RCPO (Akt PKS)) + (HPK (P-1) x RPK (Akt PKS))] x 100%
+[rumus_akhir]
 
 HTBS (P-1) : Harga TBS di PKS, periode sebelumnya.
 HCPO (P-1) : Nilai realisasi rata-rata tertimbang penjualan ekspor dan lokal CPO (harga FOB bersih) pada periode sebelumnya.
@@ -306,7 +308,7 @@ RPK(Akt PKS) : Rendemen PK aktual di PKS selama dalam periode sebelumnya.
 
 2. Penetapan Indeks "K" dilakukan berdasarkan harga penjualan, biaya pengolahan dan pemasaran minyak sawit kasar (CPO) dan inti Sawit (PK) serta biaya penyusutan.
 3. Komponen biaya pengolahan dan pemasaran CPO dan PK serta penyusutan pabrik sebagai berikut:
-
+[tabel_awal]
 No. | Jenis Biaya | Rp./Kg | Keterangan
 --- | --- | --- | ---
 **I** | **PENGOLAHAN** | | **Jumlah seluruh biaya pengolahan (A+B+C+D+E) yang dikeluarkan Perusahaan Perkebunan**
@@ -328,7 +330,7 @@ F | Analisa dan sertifikat | |
 A | Cost of money (bunga dan biaya bank, asuransi keamanan pengiriman uang) | | 0-1,33%
 B | Penyusutan timbangan CPO/PK dalam transportasi | | 0-0,30%
 C | Overhead kebun plasma (kegiatan penetapan harga TBS, pembinaan pekebun dan kelembagaan pekebun) | | 0-1%
-
+[tabel_akhir]
 Catatan: Biaya pengangkutan TBS ke pabrik merupakan beban Pekebun, karena itu tidak dimasukkan ke dalam perhitungan biaya tersebut di atas.
 
 4. Besarnya biaya penyusutan dihitung dengan menggunakan metode penyusutan satuan hasil produksi (service out put).
@@ -343,7 +345,7 @@ c) Perkiraan jumlah produksi dihitung berdasarkan kapasitas pabrik selama umur e
 d) Realisasi tambahan investasi baru dihitung dalam total biaya penyusutan.
 
 Penghitungan Besaran Indeks "K"
-
+[tabel_awal]
 No | Uraian | Minyak Sawit | Inti Sawit | TBS | Keterangan
 --- | --- | --- | --- | --- | ---
  | | Ekspor | Lokal | Ekspor | Lokal | | 
@@ -363,9 +365,11 @@ No | Uraian | Minyak Sawit | Inti Sawit | TBS | Keterangan
 13 | Nilai TBS ditimbangan pabrik | | | | | X | No. 10 dikurangi no.11 dan no. 12
 14 | Biaya operasional tidak langsung | | | | | X | Jumlah seluruh biaya operasional tidak langsung yang dikeluarkan pada periode sebelumnya yaitu terdiri dari Cost of Money (bunga dan biaya bank, asuransi keamanan pengiriman uang), penyusutan timbangan CPO/PK dalam transportasi, dan overhead kebun plasma. Nilai biaya operasional tidak langsung 2,63% dari nilai TBS di timbangan pabrik.
 15 | Nilai TBS di pabrik | | | | | X | No. 13 dikurangi no. 14
-
+[tabel_akhir]
 Keterangan:
+[rumus_awal]
 Indeks "K" = [Nilai TBS di pabrik (15) / { (4 x 7) (CPO) + (4 x 7) (PK) }] x 100%
+[rumus_akhir]
 
 GUBERNUR SUMATERA BARAT,
 Ttd
@@ -378,7 +382,9 @@ TENTANG PENETAPAN HARGA PEMBELIAN TANDAN BUAH SEGAR KELAPA
 SAWIT PRODUKSI PEKEBUN DI DAERAH
 
 RUMUS PENETAPAN HARGA TBS
+[rumus_awal]
 HTBS (P) = K (P-1) { (HCPO (P) x RCPO (Tab)) + (HPK (P) x RPK (Tab)) }
+[rumus_akhir]
 
 Dengan Pengertian:
 HTBS : Harga TBS yang diterima oleh pekebun ditingkat PKS, dinyatakan dalam Rp/Kg, pada 1 (satu) periode sebelumnya (P).
@@ -463,7 +469,7 @@ RENDEMEN CPO
 Rendemen CPO dan PK dari tanaman dengan umur yang beraneka ragam dibandingkan dengan berat rata-rata TBS yang dikonversi dengan umur tanaman Kelapa Sawit seperti Tabel 1:
 
 Tabel 1. Kesetaraan umur tanaman dengan berat tandan dan rendemen CPO.
-
+[tabel_awal]
 No. | Berat TBS (kg) | Rendemen Tenera | | Rendemen Dura | | Umur Tanaman (Tahun)
 --- | --- | --- | --- | --- | --- | ---
  | | CPO, % | PK % | CPO, % | PK, % | 
@@ -480,7 +486,7 @@ No. | Berat TBS (kg) | Rendemen Tenera | | Rendemen Dura | | Umur Tanaman (Tahun
 11 | | 20,98 | 5,37 | 18,77 | 5,55 | 23
 12 | | 19,78 | 5,33 | 17,70 | 5,55 | 24
 13 | | | | | | 25
-
+[tabel_akhir]
 Pasal 6
 PEMBAYARAN TBS YANG TIDAK MEMENUHI SYARAT
 
@@ -603,7 +609,7 @@ Penetapan berat TBS dilakukan di pabrik Perusahaan inti/mitra dengan timbangan y
 
 F. PENETAPAN RENDEMEN CPO DAN PK TBS
 1. Rendemen CPO dan PK ditetapkan berasal dari Tenera berdasarkan kepada Permentan Nomor 01 Tahun 2018, seperti tabel berikut ini:
-
+[tabel_awal]
 No. | Tahun | Rendemen (%)
 --- | --- | ---
  | | CPO | Inti
@@ -620,7 +626,7 @@ No. | Tahun | Rendemen (%)
 11 | 23 | 20,98 | 5,37
 12 | 24 | 19,78 | 5,33
 13 | 25 | | 
-
+[tabel_akhir]
 2. Rendemen CPO dan PK yang berasal dari selain Tenera pada Pekebun Swadaya ditetapkan oleh para pihak yang bermitra yang difasilitasi oleh Bupati/Walikota melalui Dinas yang membidangi perkebunan.
 3. Rendemen CPO dan PK sebagaimana dimaksud pada angka (1) dan ayat (2) dievaluasi secara periodik paling kurang 1 (satu) kali dalam 5 (lima) tahun.
 4. Evaluasi seperti yang dimaksud pada ayat (3) dilakukan oleh Badan atau Institusi yang ditunjuk oleh Gubernur.
